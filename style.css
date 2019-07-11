@@ -1,4 +1,6 @@
-p {
-  color: blue;
+body {
+  text-align: center;
+  background-image: url("Awesome.png");
+  background-repeat: repeat;
 }
   
